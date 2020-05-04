@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+p.red {
+    color: red;
+  }
+
+p.blue {
+    color: blue
+  }
+
+p.green {
+    color: green
+}
+
+p.bold{
+    font-weight: bold;
+}
+
+p.multiple{
+    font-weight: bold;
+    color: orange;
+    font-size: 20px;
+}
+
+p.styledFont{
+    color: green;
+}
